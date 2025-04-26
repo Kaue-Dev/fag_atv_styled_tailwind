@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-zinc-100 text-zinc-900;
+  @apply flex flex-col items-center justify-center min-h-screen;
+}
+
+#root {
+  @apply w-full;
+}
